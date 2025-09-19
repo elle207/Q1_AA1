@@ -37,7 +37,31 @@ p {
     background: white; 
     padding: 20px; 
     border: 2px solid #ccc; 
-    border-radius: 8px; text-align: justify; text-indent: 40px; letter-spacing: 0.5px; word-spacing: 5px; line-height: 1.8; font-size: 1rem; font-style: normal; font-weight: normal; } .navbar { display: flex; justify-content: center; align-items: center; gap: 20px; background: #8b0000; padding: 15px; border-radius: 10px; position: sticky; bottom: 0; } .navitem a { text-decoration: none; color: white; font-weight: bold; font-size: 1.1rem; transition: 0.3s ease; }
+    border-radius: 8px; 
+    text-align: justify; 
+    text-indent: 40px; 
+    letter-spacing: 0.5px; 
+    word-spacing: 5px; 
+    line-height: 1.8; 
+    font-size: 15px; 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+.navbar { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
+    background: #8b0000; 
+    padding: 15px; 
+    border-radius: 10px; 
+} 
+.navitem a { 
+    color: white; 
+    font-weight: bold; 
+    font-size: 15px; 
+}
 
 
 
